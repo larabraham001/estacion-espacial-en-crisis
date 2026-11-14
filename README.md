@@ -10,7 +10,7 @@ Proyecto final de Estructura de Datos II. Videojuego 2D en C++ con SFML 3.
 
 ## Integrantes del Equipo
 - Abraham Lara Eugenio | 572388
-
+- Edgar Rodrigo Cruz Vega | 575440
 
 ### Requisitos
 - CMake 3.16 o superior
