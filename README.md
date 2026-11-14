@@ -2,6 +2,12 @@
 
 Proyecto final de Estructura de Datos II. Videojuego 2D en C++ con SFML 3.
 
+## Institución
+- Universidad Autónoma de Aguascalientes (UAA)
+- Centro de Ciencias Básicas (CCBAS)
+- Ingeniería en Sistemas Computacionales (ISC)
+- 3er Semestre, grupo "B"
+
 ## Integrantes del Equipo
 - Abraham Lara Eugenio | 572388
 
